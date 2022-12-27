@@ -10,7 +10,7 @@ a {
     background-color: #1A2247;    
 }
 
-.header li {
+.header li a{
     color: #929292;
 }
 
