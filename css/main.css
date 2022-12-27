@@ -10,6 +10,10 @@ a {
     background-color: #1A2247;    
 }
 
+.header a {
+    color: #929292;
+}
+
 .container {
     max-width: 1140px;
     margin: 0 auto;
