@@ -158,15 +158,7 @@ a {
     color: #1A2247;
     font-size: 28px;
     font-weight: 600;
-    margin-bottom: 50px;
-}
-
-.pereezd li{
-    font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
-    color: #1A2247;
-    font-weight: 500;
-    line-height: 3;
+    margin-bottom: 20px;
 }
 
 .usl2{
@@ -298,4 +290,8 @@ a {
 .uslugi img {
     height: 300px;
     width: 480px;
+}
+
+#usluga {
+    display: flex;
 }
