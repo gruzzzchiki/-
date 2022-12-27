@@ -4,6 +4,11 @@
 	border: none;
 }
 
+header h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+
 *,
 *::before,
 *::after {
